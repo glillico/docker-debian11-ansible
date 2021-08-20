@@ -1,8 +1,8 @@
-# Debian 10 Docker Image for Ansible Testing
+# Debian 11 Docker Image for Ansible Testing
 
-[![latest](https://github.com/glillico/docker-debian11-ansible/workflows/latest/badge.svg)](https://github.com/glillico/docker-debian11-ansible/actions?query=workflow%3Alatest) [![python2](https://github.com/glillico/docker-debian11-ansible/workflows/python2/badge.svg)](https://github.com/glillico/docker-debian11-ansible/actions?query=workflow%3Apython2)
+[![latest](https://github.com/glillico/docker-debian11-ansible/workflows/latest/badge.svg)](https://github.com/glillico/docker-debian11-ansible/actions?query=workflow%3Alatest)
 
-A docker container using Debian 10 with Ansible installed for playbook and role testing.
+A docker container using Debian 11 with Ansible installed for playbook and role testing.
 
 ## Tags
 
